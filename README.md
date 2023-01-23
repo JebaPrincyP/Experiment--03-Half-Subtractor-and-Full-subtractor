@@ -68,9 +68,11 @@ endmodule
 
 ## Truthtable
 Truth Table For Half Subtractor
-!
-[image](https://user-images.githubusercontent.com/122682918/213997746-4e7d53ee-b04e-4672-a1b8-3e61bd9f7546.png)
-Truth Table For Full Subtractor![image](https://user-images.githubusercontent.com/122682918/213998270-a7bd1fb2-4a24-4e18-8e5a-58062fd9e0f4.png)
+![image](https://user-images.githubusercontent.com/122682918/214000180-b65a3754-b6c8-41da-92ad-424c078ea7a0.png)
+
+Truth Table For Full Subtractor
+![image](https://user-images.githubusercontent.com/122682918/214000305-ef540438-d548-44af-ba12-4a150c5dc7f2.png)
+
 
 
 
